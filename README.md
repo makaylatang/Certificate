@@ -1,5 +1,6 @@
 # Certificate
 ### These are certificate from online courses platforms.
+> R, Python, SQL, SAS, Linux, Deep Learning, and Tableau
 
 🌟 Professional Data Scientist Certificate from DataCamp
 
