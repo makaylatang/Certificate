@@ -1,6 +1,8 @@
 # Certificate
 These are certificate from online courses platforms.
 
+> Professional Data Scientist Certificate 
+
 > R
 - DataCamp: Cleaning Data in R
 - DataCamp: Intermediate Importing Data in R
