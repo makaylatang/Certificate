@@ -1,10 +1,11 @@
 # Certificate
 ### These are certificate from online courses platforms.
 
-> Professional Data Scientist Certificate from DataCamp
-> Professional Data Analyst Certificate from DataCamp
+#### Professional Data Scientist Certificate from DataCamp
 
-> R
+#### Professional Data Analyst Certificate from DataCamp
+
+#### R
 - DataCamp: Cleaning Data in R
 - DataCamp: Intermediate Importing Data in R
 - DataCamp: Cluster Analysis in R
