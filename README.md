@@ -1,4 +1,4 @@
-# Certificate
+# Certificates
 ### These are certificate from online courses platforms.
 > R, Python, SQL, SAS, Linux, Deep Learning, and Tableau
 
