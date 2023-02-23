@@ -1,7 +1,7 @@
 # Certificate
 ### These are certificate from online courses platforms.
 
-🌟 Professional Data Scientist Certificate from DataCamp
+🌟 Professional Data Scientist Certificate from DataCamp/n
 🌟 Professional Data Analyst Certificate from DataCamp
 
 #### R
