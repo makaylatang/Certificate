@@ -8,7 +8,7 @@
 
 🌟 **`DataCamp` Professional Data Analyst Certificate**
 
-#### R
+## R
 - `DataCamp` Data Scientist with R (88 total hours) 
 - `DataCamp` Cleaning Data in R
 - `DataCamp` Intermediate Importing Data in R
@@ -16,18 +16,18 @@
 - `DataCamp` Supervised Learning in R
 - `DataCamp` Unsupervised Learning in R
 
-#### Python
+## Python
 - `Udemy` 2022 Python for Machine Learning & Data Science Masterclass (44 total hours)
   [Exercises](https://github.com/makaylatang/Python-for-Machine-Learning-Data-Science)
 
-#### SQL
+## SQL
 - `LinkedIn Learning` Learning SQL Programming
 - `Udemy` Advanced SQL: MySQL Data Analysis & Business Intelligence
 
-#### SAS
+## SAS
 - SAS Certified Specialist: Base Programming Using SAS 9.4
 
-#### Linux
+## Linux
 - `DataCamp` Introduction to Shell
 - `Udemy` Introduction to Linux 
 
