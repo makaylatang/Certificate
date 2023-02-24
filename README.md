@@ -4,9 +4,9 @@
 
 👩🏻‍💻 Skills: R, Python, SQL, SAS, Linux, Deep Learning, and Tableau
 
-🌟 Professional Data Scientist Certificate from DataCamp
+🌟 `DataCamp` Professional Data Scientist Certificate
 
-🌟 Professional Data Analyst Certificate from DataCamp
+🌟 `DataCamp` Professional Data Analyst Certificate
 
 #### R
 - `DataCamp` Data Scientist with R (88 total hours) 
