@@ -1,5 +1,5 @@
 # Certificates
-### These are certificate from online courses platforms.
+### These are my certificates from online courses platforms.
 > R, Python, SQL, SAS, Linux, Deep Learning, and Tableau
 
 🌟 Professional Data Scientist Certificate from DataCamp
@@ -7,6 +7,7 @@
 🌟 Professional Data Analyst Certificate from DataCamp
 
 #### R
+- DataCamp: Data Scientist with R (88 total hours) 
 - DataCamp: Cleaning Data in R
 - DataCamp: Intermediate Importing Data in R
 - DataCamp: Cluster Analysis in R
