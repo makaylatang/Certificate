@@ -1,6 +1,7 @@
 # Certificates
 ### These are my certificates from online courses platforms.
-> R, Python, SQL, SAS, Linux, Deep Learning, and Tableau
+> Online Learning: DataCamp, LinkedIn Learning, Udemy
+> Skills: R, Python, SQL, SAS, Linux, Deep Learning, and Tableau
 
 🌟 Professional Data Scientist Certificate from DataCamp
 
