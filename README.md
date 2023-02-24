@@ -16,6 +16,7 @@
 
 #### Python
 - Udemy: 2022 Python for Machine Learning & Data Science Masterclass (44 total hours)
+  [GitHub Pages](https://github.com/makaylatang/Python-for-Machine-Learning-Data-Science)
 
 #### SQL
 - LinkedIn Learning: Learning SQL Programming
