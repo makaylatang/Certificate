@@ -9,8 +9,8 @@
 🌟 Professional Data Analyst Certificate from DataCamp
 
 #### R
-- DataCamp: Data Scientist with R (88 total hours) 
-- DataCamp: Cleaning Data in R
+- `DataCamp` Data Scientist with R (88 total hours) 
+- `DataCamp` Cleaning Data in R
 - DataCamp: Intermediate Importing Data in R
 - DataCamp: Cluster Analysis in R
 - DataCamp: Supervised Learning in R
