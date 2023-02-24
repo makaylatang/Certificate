@@ -31,8 +31,8 @@
 - `DataCamp` Introduction to Shell
 - `Udemy` Introduction to Linux 
 
-#### Deep Learning
+## Deep Learning
 - `LinkedIn Learning` Pytorch Essential Training Deep Learning
 
-#### Tableau
+## Tableau
 - `DataCamp` Introduction to Tableau
