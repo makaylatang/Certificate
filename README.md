@@ -33,6 +33,7 @@
 
 ## Deep Learning
 - `LinkedIn Learning` Pytorch Essential Training Deep Learning
+- `LinkedIn Learning` Deep Learning: Getting Started
 
 ## Tableau
 - `DataCamp` Introduction to Tableau
